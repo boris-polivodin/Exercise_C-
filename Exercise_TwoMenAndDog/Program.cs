@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-int  speedMan1 = 4, speedMan2 = 3, speedDog = 10, count = 0, i = 1;
+﻿int  speedMan1 = 4, speedMan2 = 3, speedDog = 10, count = 0, i = 1;
 double distance = 1000, time = 0, distanceDog = 0;
 
 while (distance > 3)
